@@ -11,9 +11,17 @@ The goal is to have enough details about each free tier so developers can choose
 
 # Table of Contents
 - [**App hosting**](resources/app-hosting.md)
+    - [AWS EC2](resources/app-hosting.md/#aws-ec2)
+    - [Azure App Service](resources/app-hosting.md/#azure-app-service)
+    - [Heroku](resources/app-hosting.md/#heroku)
+    - [OpeNode](resources/app-hosting.md/#openode)
+    - [OpenShift](resources/app-hosting.md/#openshift)
+    - [Vercel](resources/app-hosting.md/#vercel)
 - [**Application performance monitoring**](resources/application-performance-monitoring.md)
 - [**Code collaboration tools**](resources/code-collaboration-tools.md)
 - [**Content Delivery Networks**](resources/content-delivery-networks.md)
 - [**Emails**](resources/transactional-emails.md)
 - [**Logging**](resources/logging.md)
 - [**Team Chat**](resources/team-chat.md)
+    - [Slack](resources/team-chat.md/#slack)
+    - [Microsoft Teams](resources/team-chat.md/#microsoft-teams)
